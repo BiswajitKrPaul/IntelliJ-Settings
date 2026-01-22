@@ -1,0 +1,2 @@
+Theme - Atom one dark
+Icon Theme - Atom Material Icons
